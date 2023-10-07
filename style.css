@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.navbar-brand:hover{
+    color:blue;
+}
+
+.nav-item a{
+   margin-right: 1.5rem;
+}
+.MobileDownload{
+   
+    margin-left: 4.2rem;
+    margin-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.big-circle img{
+    width: 250px;
+    height: 520px;
+    position: absolute;
+    z-index: -1;
+   transform: translateY(20%);
+   bottom: 20%;
+   right: 25%;
+   border-radius: 10%;
+}
+.pacePhone1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.pacePhone1 img{
+    max-width: 17rem;
+}
+.svg1{
+    position: absolute;
+    width: 0.75rem;
+    height: 0.75rem;
+    fill: #2937f0;
+    bottom: 10%;
+    left: 63%;
+}
+.svg2{
+    width: 0.75rem;
+    height: 0.75rem;
+    fill: #2937f0;
+    position: absolute;
+    right: 10%;
+    top: 30%;
+
+}
+
+
+.page-center{
+    margin-top: 5rem;
+    
+}
+
+
+.big-circle1 img{
+    width: 370px;
+    height: 765px;
+    right: 12%;
+    bottom: 2%;
+    border-radius: 5%;
+    position: absolute;
+    z-index: -1;
+    
+    
+}
+
+.page-twophone1 img{
+    max-width: 25rem;
+
+}
+.page-twophone1{
+    position: relative;
+    display: flex;
+    justify-content: end;
+}
+
+
+.game-avatar{
+    width: 3rem;
+}
+.game-avatar1{
+    width: 4rem;
+}
+.game-avatar2{
+    width: 6rem;
+}
+
+.raidus-img img{
+    border-radius: 60%;
+    height: 500px;
+}
+.page-of{
+    background-color: #b3d24a;
+}
+
+.large-image{
+    margin-top: 5rem;
+}
+.large-image1{
+    position: absolute;
+    bottom: -370%;
+    left: 2%;
+}
+.page-lower{
+    background-color: #7923E7;
+    padding: 5rem;
+}
+ 
+.page-dowlond{
+   
+    display: flex;
+    align-items: center;
+    column-gap: 2rem;
+    justify-content: center;
+
+}
+.page-dowlond img{
+    width: 150px;
+}
+.footer{
+    padding: 5rem;
+}
